@@ -1,0 +1,12 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+div {
+    background: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
